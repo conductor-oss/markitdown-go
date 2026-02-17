@@ -132,3 +132,7 @@ Flags:
 - PDF extraction is text-based; image-only PDFs produce no output without OCR.
 - DOCX math equations (OMML) are converted to LaTeX notation.
 - CJK charset detection works without hints but is most reliable when `Charset` is provided in `StreamInfo`.
+
+## Acknowledgements
+
+This project is a Go port of Microsoft's [markitdown](https://github.com/microsoft/markitdown) Python library. The original project provides the reference implementation, test fixtures, and design that this port is based on.
