@@ -1,8 +1,8 @@
 # markitdown-go
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/conductoross/markitdown-go.svg)](https://pkg.go.dev/github.com/conductoross/markitdown-go)
-[![Go Report Card](https://goreportcard.com/badge/github.com/conductoross/markitdown-go)](https://goreportcard.com/report/github.com/conductoross/markitdown-go)
-[![Release](https://img.shields.io/github/v/release/conductoross/markitdown-go)](https://github.com/conductoross/markitdown-go/releases)
+[![Go Reference](https://pkg.go.dev/badge/github.com/conductor-oss/markitdown-go.svg)](https://pkg.go.dev/github.com/conductor-oss/markitdown-go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/conductor-oss/markitdown-go)](https://goreportcard.com/report/github.com/conductor-oss/markitdown-go)
+[![Release](https://img.shields.io/github/v/release/conductor-oss/markitdown-go)](https://github.com/conductor-oss/markitdown-go/releases)
 
 A pure-Go library and CLI that converts documents to Markdown. Go port of the Python [markitdown](https://github.com/microsoft/markitdown) library.
 
